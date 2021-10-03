@@ -1584,3 +1584,19 @@ padding-bottom: 2em;
 			top: 7px;
 		}
 		}
+
+.pos-ab{
+	position: absolute;
+}
+.pos-rl{
+	position: relative;
+}
+.wd-100{
+	width: 100%;
+}
+.op-0{
+	opacity: 0;
+}
+.op-1{
+	opacity: 1;
+}
